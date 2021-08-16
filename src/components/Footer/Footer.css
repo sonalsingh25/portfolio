@@ -1,0 +1,13 @@
+.footer-link{
+    font-family: Montserrat;
+    font-weight: bold;
+    line-height: 36px;
+    letter-spacing: -0.051em;
+    font-size: 24px;
+    text-align: center;
+
+}
+
+.footer-link-element{
+    color: #000;
+}
